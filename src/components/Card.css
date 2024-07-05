@@ -1,0 +1,17 @@
+.card {
+    background: hsla(293, 48%, 89%, 0.855);
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.868);
+    padding: 20px;
+    margin: 20px;
+    max-width: 400px;
+    height: 250px;
+    text-align: center;
+    margin: auto;
+  }
+  .quote {
+    margin: auto;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #0c7019;
+  }
